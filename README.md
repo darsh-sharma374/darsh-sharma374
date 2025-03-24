@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Darsh</h1>
 <h3 align="center">A passionate student learning the Tech World</h3>
 
-- ☕️ I’m currently learning **Java**
+- 📊 Currently learning more **Data Structures in Python**
 
-- 🐍 I have intermediate knowledge of **Python**
+- 🐍 Intermediate knowledge of **Python**
+
+- ⬆️ Next Up: Learn C++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
