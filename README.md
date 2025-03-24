@@ -7,7 +7,7 @@
 
 - ⬆️ Next Up: Learn C++
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me through Github!</h3>
 <p align="left">
 </p>
 
