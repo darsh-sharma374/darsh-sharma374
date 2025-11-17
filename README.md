@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Darsh</h1>
+<h1 align="center">Hi, I'm Darsh</h1>
 <h3 align="center">A passionate student learning the Tech World</h3>
 
-- 📊 Currently learning more about **Data Structures in Python**
+- Currently learning more about **Data Structures in Python**
 
-- 🐍 Intermediate knowledge of **Python**
+- Intermediate knowledge of **Python**
 
-- ⬆️ Next Up: Machine learning in Python and Learn C++
+- Next Up: Machine learning in Python and Learn Java
 
 <h3 align="left">Connect with me through Github!</h3>
 <p align="left">
